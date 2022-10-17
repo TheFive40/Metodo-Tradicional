@@ -3,11 +3,14 @@ package MetodoTradicional;
 import java.util.Scanner;
 
 public class Sales_Oxacidas_NeutrasTradicional {
-
+//La explicacion se encuentra en las clases de arriba por lo tanto no se hace falta ser redundante a la hora de explicar nuevamente el codigo 
+		//Puesto que sigue la  misma logica que los anteriores 
+		
+		//AHORA ES TU TURNO DE LEER ESTE CODIGO 
 	public void Sales_Neutras() {
 		System.out.println(" -------------------------------------------------- ");
 		System.out.println("Bienvenido, al Metodo Tradicional de Nomenclatura de los Acidos Oxacidas Neutras");
-		System.out.println("¿Cual Caso para los Hidroxidos desea aplicar?");
+		System.out.println("Â¿Cual Caso para los Hidroxidos desea aplicar?");
 		System.out.println("\n1: Caso 1 \n2: Caso 2 \n3: Caso 3");
 		
 		Scanner entrada = new Scanner (System.in);
@@ -27,7 +30,7 @@ public class Sales_Oxacidas_NeutrasTradicional {
 				System.out.println(Oxacidos[i]);
 			}
 			
-			System.out.println("Por favor, escoja  el número de la lista que desea");
+			System.out.println("Por favor, escoja  el nÃºmero de la lista que desea");
 			Scanner Entrada = new Scanner(System.in);
 			int Eleccion = Entrada.nextInt();
 			if (Eleccion == 0) {
@@ -37,7 +40,7 @@ public class Sales_Oxacidas_NeutrasTradicional {
 			}else if (Eleccion == 1) {
 				System.out.println("La nomenclatura del Elemento Seleccionado es:");
 
-				System.out.println("Es un CARBÓNATO FERROSO");
+				System.out.println("Es un CARBÃ“NATO FERROSO");
 			}else if (Eleccion == 2) {
 				System.out.println("La nomenclatura del Elemento Seleccionado es:");
 
@@ -69,7 +72,7 @@ public class Sales_Oxacidas_NeutrasTradicional {
 			}
 			
 			
-			System.out.println("Por favor, escoja  el número de la lista que desea");
+			System.out.println("Por favor, escoja  el nÃºmero de la lista que desea");
 			Scanner Entrada = new Scanner(System.in);
 			int Eleccion = Entrada.nextInt();
 			if (Eleccion == 0) {
@@ -91,7 +94,7 @@ public class Sales_Oxacidas_NeutrasTradicional {
 			}else if (Eleccion == 4) {
 				System.out.println("La nomenclatura del Elemento Seleccionado es:");
 
-				System.out.println("Es un TELURITO CÚPRICO");
+				System.out.println("Es un TELURITO CÃšPRICO");
 			}else if (Eleccion == 5) {
 				System.out.println("La nomenclatura del Elemento Seleccionado es:");
 
@@ -113,7 +116,7 @@ public class Sales_Oxacidas_NeutrasTradicional {
 			}
 			
 			
-			System.out.println("Por favor, escoja  el número de la lista que desea");
+			System.out.println("Por favor, escoja  el nÃºmero de la lista que desea");
 			Scanner Entrada = new Scanner(System.in);
 			int Eleccion = Entrada.nextInt();
 			if (Eleccion == 0) {
@@ -123,7 +126,7 @@ public class Sales_Oxacidas_NeutrasTradicional {
 			}else if (Eleccion == 1) {
 				System.out.println("La nomenclatura del Elemento Seleccionado es:");
 
-				System.out.println("Es un CLORITO FÉRRICO");
+				System.out.println("Es un CLORITO FÃ‰RRICO");
 			}else if (Eleccion == 2) {
 				System.out.println("La nomenclatura del Elemento Seleccionado es:");
 
@@ -131,7 +134,7 @@ public class Sales_Oxacidas_NeutrasTradicional {
 			}else if (Eleccion == 3) {
 				System.out.println("La nomenclatura del Elemento Seleccionado es:");
 
-				System.out.println("Es un PERCLÓRATO DE POTASIO");
+				System.out.println("Es un PERCLÃ“RATO DE POTASIO");
 			}else if (Eleccion == 4) {
 				System.out.println("La nomenclatura del Elemento Seleccionado es:");
 
