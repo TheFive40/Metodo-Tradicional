@@ -3,7 +3,10 @@ package MetodoTradicional;
 import java.util.Scanner;
 
 public class Sales_Oxacidas_AcidasTradicional {
-
+//La explicacion se encuentra en las clases de arriba por lo tanto no se hace falta ser redundante a la hora de explicar nuevamente el codigo 
+		//Puesto que sigue la  misma logica que los anteriores 
+		
+		//AHORA ES TU TURNO DE LEER ESTE CODIGO 
 	public void Sales_Acidas() {
 		System.out.println(" -------------------------------------------------- ");
 		System.out.println("Bienvenido, al Metodo Tradicional de Nomenclatura de los Acidos Oxacidas Neutras");
