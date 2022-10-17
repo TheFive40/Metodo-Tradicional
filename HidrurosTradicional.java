@@ -4,6 +4,10 @@ import java.util.Scanner;
 
 public class HidrurosTradicional {
 	public void Hidruros() {
+		//La explicacion se encuentra en las clases de arriba por lo tanto no se hace falta ser redundante a la hora de explicar nuevamente el codigo 
+		//Puesto que sigue la  misma logica que los anteriores 
+		
+		//AHORA ES TU TURNO DE LEER ESTE CODIGO 
 		System.out.println(" -------------------------------------------------- ");
 		System.out.println("Bienvenido, al Metodo Tradicional de Nomenclatura de Hidruros");
 		System.out.println("¿Cual Caso para los Hidroxidos desea aplicar?");
